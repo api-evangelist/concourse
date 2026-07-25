@@ -1,0 +1,12 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://www.concourse.co/security
+url: https://www.concourse.co/security
+certifications:
+- SOC 2
+evidence:
+- source: https://www.concourse.co/security
+  keywords:
+  - soc 2
+  - compliance certification

@@ -1,0 +1,23 @@
+# Concourse 101
+
+## Docs
+
+- [Ad hoc analysis](https://docs.concourse.co/concourse-101/common-use-cases/ad-hoc-analysis.md)
+- [Board and investor reporting](https://docs.concourse.co/concourse-101/common-use-cases/board-and-investor-reporting.md)
+- [Monthly close support](https://docs.concourse.co/concourse-101/common-use-cases/monthly-close-support.md)
+- [Exports and sharing](https://docs.concourse.co/concourse-101/core-concepts/exports-and-sharing.md)
+- [Integrations](https://docs.concourse.co/concourse-101/core-concepts/integrations.md)
+- [Memories](https://docs.concourse.co/concourse-101/core-concepts/memories.md)
+- [Prompt library](https://docs.concourse.co/concourse-101/core-concepts/prompt-library.md)
+- [Report](https://docs.concourse.co/concourse-101/core-concepts/report.md)
+- [Workbooks](https://docs.concourse.co/concourse-101/core-concepts/workbooks.md)
+- [How Concourse is different from generic chatbots / OOTB LLMs](https://docs.concourse.co/concourse-101/getting-started/how-concourse-is-different-from-generic-chatbots.md)
+- [Product overview](https://docs.concourse.co/concourse-101/getting-started/product-overview.md)
+- [Transparent by design](https://docs.concourse.co/concourse-101/getting-started/transparent-by-design.md)
+- [How Concourse is different from traditional BI](https://docs.concourse.co/concourse-101/product-overview/how-concourse-is-different-from-traditional-bi.md)
+- [Anchor the scope: time, entities, and cuts](https://docs.concourse.co/concourse-101/prompting-best-practices/anchor-the-scope.md)
+- [Call out key definitions and assumptions](https://docs.concourse.co/concourse-101/prompting-best-practices/call-out-key-definitions-and-assumptions.md)
+- [Choose the right level of structure](https://docs.concourse.co/concourse-101/prompting-best-practices/choose-the-right-level-of-structure.md)
+- [Iterate instead of over-specifying](https://docs.concourse.co/concourse-101/prompting-best-practices/iterate-instead-of-over-specifying.md)
+- [Shape the output format](https://docs.concourse.co/concourse-101/prompting-best-practices/shape-the-output-format.md)
+- [Start with the job-to-be-done](https://docs.concourse.co/concourse-101/prompting-best-practices/start-with-the-job-to-be-done.md)

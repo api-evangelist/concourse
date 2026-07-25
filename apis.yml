@@ -1,7 +1,14 @@
 aid: concourse
 name: Concourse
-description: 'Concourse is a company surfaced as a portfolio company of crv and added to the API Evangelist
-  network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Concourse builds AI agents for corporate finance teams. Its platform lets
+  finance, accounting, and data teams query financial data in natural language, generate
+  board and investor reporting with commentary, and run forecasts and scenarios against
+  real-time data. Concourse connects natively to financial and operational systems including
+  QuickBooks, NetSuite, Ramp, Snowflake, Salesforce, HubSpot, Stripe, Brex, Rippling,
+  Gusto, BigQuery, and Databricks, and says it cuts manual finance work by over 75%.
+  The company is SOC 2 Type II certified and backed by CRV, raising a $12M Series A
+  alongside general availability. This profile was surfaced from a VC portfolio and
+  enriched by the API Evangelist pipeline.'
 url: https://raw.githubusercontent.com/api-evangelist/concourse/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +16,30 @@ x-backed-by:
 - crv
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://concourse.co/og.png
 tags:
 - Company
 - Fintech
+- AI Agents
+- Corporate Finance
+- Financial Reporting
+- FP&A
+- Accounting
+- Analytics
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +49,32 @@ maintainers:
 common:
 - type: Website
   url: https://www.concourse.co/
+- type: Documentation
+  url: https://docs.concourse.co
+- type: Blog
+  url: https://www.concourse.co/insights
+- type: TermsOfService
+  url: https://www.concourse.co/terms
+- type: PrivacyPolicy
+  url: https://www.concourse.co/privacy
+- type: SignUp
+  url: https://app.concourse.co/auth/sign-up
+- type: Login
+  url: https://app.concourse.co/auth/sign-in
+- type: TrustCenter
+  url: security/concourse-trust-center.yml
+- type: Compliance
+  url: https://www.concourse.co/security
+- type: DomainSecurity
+  url: security/concourse-domain-security.yml
+- type: LLMsTxt
+  url: llms/concourse-llms.txt
+- type: LinkedIn
+  url: https://www.linkedin.com/company/concourseai
+- type: Twitter
+  url: https://x.com/Concourse_ai
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
